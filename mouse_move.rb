@@ -1,6 +1,7 @@
 # Run "gem install mouse" (without quotes) in mac terminal to get this to run.
 # To run: cd into the directory this file is kept..then type "ruby mouse_move.rb" in terminal (no quotes)
 # control-c in the terminal window to stop
+# See https://github.com/AXElements/mouse for more stuff you can do
 require 'mouse'
 
 
